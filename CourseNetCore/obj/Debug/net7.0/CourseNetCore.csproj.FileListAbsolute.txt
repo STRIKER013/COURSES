@@ -1,0 +1,14 @@
+C:\Users\elpil\Source\Repos\STRIKER013\COURSES\CourseNetCore\obj\Debug\net7.0\CourseNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elpil\Source\Repos\STRIKER013\COURSES\CourseNetCore\obj\Debug\net7.0\CourseNetCore.AssemblyInfoInputs.cache
+C:\Users\elpil\Source\Repos\STRIKER013\COURSES\CourseNetCore\obj\Debug\net7.0\CourseNetCore.AssemblyInfo.cs
+C:\Users\elpil\Source\Repos\STRIKER013\COURSES\CourseNetCore\obj\Debug\net7.0\CourseNetCore.csproj.CoreCompileInputs.cache
+C:\Users\elpil\Source\Repos\STRIKER013\COURSES\CourseNetCore\bin\Debug\net7.0\CourseNetCore.exe
+C:\Users\elpil\Source\Repos\STRIKER013\COURSES\CourseNetCore\bin\Debug\net7.0\CourseNetCore.deps.json
+C:\Users\elpil\Source\Repos\STRIKER013\COURSES\CourseNetCore\bin\Debug\net7.0\CourseNetCore.runtimeconfig.json
+C:\Users\elpil\Source\Repos\STRIKER013\COURSES\CourseNetCore\bin\Debug\net7.0\CourseNetCore.dll
+C:\Users\elpil\Source\Repos\STRIKER013\COURSES\CourseNetCore\bin\Debug\net7.0\CourseNetCore.pdb
+C:\Users\elpil\Source\Repos\STRIKER013\COURSES\CourseNetCore\obj\Debug\net7.0\CourseNetCore.dll
+C:\Users\elpil\Source\Repos\STRIKER013\COURSES\CourseNetCore\obj\Debug\net7.0\refint\CourseNetCore.dll
+C:\Users\elpil\Source\Repos\STRIKER013\COURSES\CourseNetCore\obj\Debug\net7.0\CourseNetCore.pdb
+C:\Users\elpil\Source\Repos\STRIKER013\COURSES\CourseNetCore\obj\Debug\net7.0\CourseNetCore.genruntimeconfig.cache
+C:\Users\elpil\Source\Repos\STRIKER013\COURSES\CourseNetCore\obj\Debug\net7.0\ref\CourseNetCore.dll
