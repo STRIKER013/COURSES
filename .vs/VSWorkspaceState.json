@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\C#",
-    "\\C#\\console"
+    "\\C#\\console",
+    "\\CourseNetCore"
   ],
-  "SelectedNode": "\\C#\\console",
+  "SelectedNode": "\\CourseNetCore\\CourseNetCore.csproj",
   "PreviewInSolutionExplorer": false
 }
