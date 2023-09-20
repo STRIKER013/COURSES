@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elpil\\source\\repos\\STRIKER013\\COURSES\\CourseNetCore\\CourseNetCore.csproj": {}
+    "C:\\Users\\elpil\\source\\repos\\STRIKER013\\COURSES\\CourseNetCoreOperators\\CourseNetCoreOperators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elpil\\source\\repos\\STRIKER013\\COURSES\\CourseNetCore\\CourseNetCore.csproj": {
+    "C:\\Users\\elpil\\source\\repos\\STRIKER013\\COURSES\\CourseNetCoreOperators\\CourseNetCoreOperators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elpil\\source\\repos\\STRIKER013\\COURSES\\CourseNetCore\\CourseNetCore.csproj",
-        "projectName": "CourseNetCore",
-        "projectPath": "C:\\Users\\elpil\\source\\repos\\STRIKER013\\COURSES\\CourseNetCore\\CourseNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\elpil\\source\\repos\\STRIKER013\\COURSES\\CourseNetCoreOperators\\CourseNetCoreOperators.csproj",
+        "projectName": "CourseNetCoreOperators",
+        "projectPath": "C:\\Users\\elpil\\source\\repos\\STRIKER013\\COURSES\\CourseNetCoreOperators\\CourseNetCoreOperators.csproj",
         "packagesPath": "C:\\Users\\elpil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elpil\\source\\repos\\STRIKER013\\COURSES\\CourseNetCore\\obj\\",
+        "outputPath": "C:\\Users\\elpil\\source\\repos\\STRIKER013\\COURSES\\CourseNetCoreOperators\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
